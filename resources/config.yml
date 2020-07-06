@@ -1,0 +1,28 @@
+#  ____          _   _
+ #| __ ) _   _  | \ | | ___ _ __ _________  __
+ #|  _ \| | | | |  \| |/ _ \ '__|_  / _ \ \/ /
+ #| |_) | |_| | | |\  |  __/ |   / / (_) >  <
+ #|____/ \__, | |_| \_|\___|_|  /___\___/_/\_\
+  #      |___/
+
+#--MESSAGE--
+
+noBack: §4You don't have any death since the latest join
+teleportSucess: §eYou have been successfully teleported to your last death point
+noPermission: §4You don't have permission for use this command.
+noPlayingGame: §4Please use this command in game.
+usageHelp: §4Please use /back help.
+
+#--BACK-RESET-MESSAGE--
+
+usageReset: §4/back reset <joueur>
+targetNoConnect: §4This player is not connected
+targetNoBack: §4This target doesn't have any death since the latest join
+
+#--PERMISSION--
+
+backPermission: back.use
+resetPermission: back.reset
+allPermission: back.*
+
+

@@ -1,0 +1,5 @@
+name: FacBackPlugin
+version: 2.0
+api: 3.0.0
+main: BackPlugin\Nerzox\BackCore
+author: Nerzox
